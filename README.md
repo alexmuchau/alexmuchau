@@ -29,7 +29,8 @@
   📫 How to reach me: <a href='mailto:muchau04@gmail.com'>muchau04@gmail.com</a>
 </p>
 
-## Education
+
+<h2>Education</h2>
 
 - 📖 **Computer Science**\
 📆 2022 - currently
@@ -38,9 +39,10 @@
 - 🔥 **Ignite - Rocketseat**\
 📆 2022 - currently
 
-## Skills
+
+<h2>Skills</h2>
   
-<h2>👨‍💻 Advanced</h2>
+<h3>👨‍💻 Advanced</h3>
   
 <img align="right" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
@@ -57,7 +59,7 @@
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 **ReactJS**
 
-<h2>💻 Studying</h2>
+<h3>💻 Studying</h3>
 
 <img align="right" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
@@ -73,5 +75,10 @@
 
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 **Flutter**
+
+
+
+
+
 
 **☕ a coffee pls**
