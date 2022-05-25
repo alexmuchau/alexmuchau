@@ -9,10 +9,6 @@
 </p>
 
 <p align='center'>
-  ☕ a coffee pls
-</p>
-
-<p align='center'>
   
   <a href="https://www.linkedin.com/in/alexmuchau/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -29,6 +25,10 @@
 
 <p align='center'>
   📫 How to reach me: <a href='mailto:muchau04@gmail.com'>muchau04@gmail.com</a>
+</p>
+
+<p align='center'>
+  ☕ a coffee pls
 </p>
 
 
