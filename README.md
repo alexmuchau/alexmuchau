@@ -6,10 +6,11 @@
 
 <p align='center'>
   Frontend developer from Curitiba-PR, Brazil.
-  ☕ a coffee pls
 </p>
 
-
+<p align='center'>
+  ☕ a coffee pls
+</p>
 
 <p align='center'>
   
