@@ -38,5 +38,11 @@
 📆 2022 - currently
 📍 **Positivo University** - Curitiba-PR, Brazil
   
-- 🔥 **Ignite - Rocketseat**\
-📆 2022 - currently
+- 👨‍💻 **Machine Learning - Alura**\
+- *Classifição por trás dos panos.*
+- *Classificação com SKLearn.*
+📆 04/2023 - currently
+
+- 👨‍💻 **Data Science - Alura**\
+- *Análise e visualização dos dados.*
+📆 04/2023 - currently
