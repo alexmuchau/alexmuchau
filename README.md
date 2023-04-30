@@ -35,14 +35,14 @@
 <h2>Education</h2>
 
 - 📖 **Computer Science**\
-📆 2022 - currently
-📍 **Positivo University** - Curitiba-PR, Brazil
+📍 **Positivo University** - Curitiba-PR, Brazil\
+📆 **2022** - currently.
   
 - 👨‍💻 **Machine Learning - Alura**\
-- *Classifição por trás dos panos.*
-- *Classificação com SKLearn.*
-📆 04/2023 - currently
+*Classifição por trás dos panos.*\
+*Classificação com SKLearn.*\
+📆 **04/2023** - currently.
 
-- 👨‍💻 **Data Science - Alura**\
-- *Análise e visualização dos dados.*
-📆 04/2023 - currently
+- 📈 **Data Science - Alura**\
+*Análise e visualização dos dados.*\
+📆 **04/2023** - currently.
