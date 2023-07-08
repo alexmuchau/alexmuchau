@@ -52,24 +52,46 @@
 
 <div align='center'>
 
-  <h2>📖 Education</h2>
+  ## 📚 Education
   
-  📖 **Computer Science** - **Universidade Positivo**\
-  📍 Curitiba-PR, **Brazil**\
+  ### 📖 **Computer Science** - **Universidade Positivo**
+  📍 Curitiba-PR, **Brazil**
+  
   📆 **2022** - currently.
     
   <br/>
+
+  ### 🤖 **Deep Learning - Alura**
+  *Deep Learning parte 1: Keras.*
+
+  📆 **04/2023** - currently
+
+  <br/>
   
-  👨‍💻 **Machine Learning - Alura**\
+  ### 👨‍💻 **Machine Learning - Alura**
+  *Machine Learning parte 1: otimização de modelos através de hiperparâmetros.*\
+  *Clustering aplicado: recomendando músicas com K-Means.*\
+  *Lidando com dados de muitas dimensões.*\
+  *Validação de modelos.*\
   *Classifição por trás dos panos.*\
-  *Classificação com SKLearn.*\
+  *Classificação com SKLearn.*
+  
   📆 **04/2023** - currently.
 
   <br/>
   
-  📈 **Data Science - Alura**\
-  *Análise e visualização dos dados.*\
+  ### 📈 **Data Science - Alura**
+  *Análise e visualização dos dados.*
+  
   📆 **04/2023** - currently.
+
+  <br/>
+
+  ### 🐍 **Python - Alura**
+  *Entendendo a Orientação a Objetos.*\
+  *Começando com a linguagem.*
+  
+  📆 **12/2019** - **12/2019**.
   
 </div>
 
