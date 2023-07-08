@@ -11,7 +11,7 @@
 </p>
 
 <p align='center'>
-  🔭 Trabalhando atualmente em um projeto <strong>Typescript com NodeJS, ReactJS, Socket.io.</strong>
+  🔭 Currently working on a <strong>Typescript project with NodeJS, ReactJS, Socket.io.</strong>
 </p>
 
 <p align='center'>
