@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  <strong>Python and Full-Stack dev</strong> from Curitiba-PR, Brazil.
+  <strong>A Data Engineer</strong> from Curitiba-PR, Brazil.
 </p>
 
 <p align="center">
