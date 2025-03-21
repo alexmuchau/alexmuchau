@@ -11,7 +11,7 @@
 </p>
 
 <p align='center'>
-  🔭 Currently working on <strong>Grupo Boticario</strong> as a <strong>Mid Data Engineer</strong> 
+  🔭 Currently working on <strong>Grupo Boticario</strong> as <strong>Mid Data Engineer</strong> 
 </p>
 
 <p align='center'>
